@@ -1,0 +1,10 @@
+{
+        "World War I": ["28/07/1914", "11/11/1918"],
+        "The Great Depression": ["01/01/1929", "01/01/1939"],
+        "World War II": ["01/01/1940", "31/12/1946"],
+        "1973 Oil Crisis": ["01/01/1973", "31/12/1973"],
+        "Latin American Debt Crisis": ["01/01/1980", "01/01/1981"],
+        "Asian Financial Crisis": ["01/01/1997", "01/01/1998"],
+        "Global Financial Crisis": ["30/06/2007", "31/12/2009"],
+        "Corona Virus Pandemic": ["15/03/2020", "21/12/2021"],
+    }
